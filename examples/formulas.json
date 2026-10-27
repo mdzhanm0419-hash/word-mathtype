@@ -1,0 +1,7 @@
+[
+  {"marker":"[[MT:inline]]","layout":"inline","tex":"g_i=a_i e^{j\\phi_i}"},
+  {"marker":"[[MT:sum]]","layout":"display","tex":"F=\\frac{1}{N}\\sum_{n=1}^{N}w_n"},
+  {"marker":"[[MT:matrix]]","layout":"display","tex":"\\begin{bmatrix}a&b\\\\c&d\\end{bmatrix}"},
+  {"marker":"[[MT:vector]]","layout":"inline","tex":"\\mathbf{H}\\mathbf{w}=\\mathbf{v}"},
+  {"marker":"[[MT:root]]","layout":"display","tex":"\\sqrt{\\frac{1}{N}\\sum_{n=1}^{N}x_n^2}"}
+]
